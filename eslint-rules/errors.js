@@ -24,7 +24,7 @@ module.exports = {
     'no-cond-assign': ['error', 'always'],
 
     // disallow use of console
-    'no-console': 'warn',
+    'no-console': 'off',
 
     // disallow use of constant expressions in conditions
     'no-constant-condition': 'warn',
@@ -142,7 +142,7 @@ module.exports = {
 
     // ensure JSDoc comments are valid
     // https://eslint.org/docs/rules/valid-jsdoc
-    'valid-jsdoc': 'warn',
+    'valid-jsdoc': 'off',
 
     // ensure that the results of typeof are compared against a valid string
     // https://eslint.org/docs/rules/valid-typeof

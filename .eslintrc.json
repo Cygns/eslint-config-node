@@ -4,6 +4,7 @@
     "./eslint-rules/errors.js",
     "./eslint-rules/es6.js",
     "./eslint-rules/imports.js",
+    "./eslint-rules/jsdoc.js",
     "./eslint-rules/node.js",
     "./eslint-rules/strict.js",
     "./eslint-rules/style.js",

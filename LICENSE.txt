@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2017-2020 Cygns
+Copyright (c) 2017-2021 Cygns
 
 Rules derived from GitHub project: airbnb / javascript
 Copyright (c) 2012 Airbnb

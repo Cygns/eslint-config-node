@@ -10,7 +10,7 @@
     "linter",
     "node"
   ],
-  "version": "5.1.0",
+  "version": "6.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/cygns/eslint-config-node"
@@ -21,11 +21,13 @@
     "lint": "eslint eslint-rules/**"
   },
   "devDependencies": {
-    "eslint": "7.11.0",
-    "eslint-plugin-import": "2.22.1"
+    "eslint": "7.23.0",
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-jsdoc": "32.3.0"
   },
   "peerDependencies": {
-    "eslint": "^7.11",
-    "eslint-plugin-import": "^2.21"
+    "eslint": "^7.23",
+    "eslint-plugin-import": "^2.21",
+    "eslint-plugin-jsdoc": "^32.3"
   }
 }
